@@ -1,2 +1,2 @@
-# my-first-repo
-this repo helps me learn github
+# Learning javascript
+this repo helps me learn .js
